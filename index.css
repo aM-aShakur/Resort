@@ -1,0 +1,24 @@
+h1 {
+    text-shadow: 5px 5px grey;
+    text-align: center;
+}
+
+p, ul {
+    font-weight: bold;
+}
+
+img {
+    width: 25px;
+    height: 25px;
+}
+
+footer {
+    background-color: grey; 
+    color: white; 
+    text-align: center;
+}
+
+.address {
+    position: relative;
+    margin-right: 100px;
+}
